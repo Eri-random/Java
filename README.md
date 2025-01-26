@@ -25,4 +25,16 @@ Estos patrones proporcionan mecanismos de creación de objetos que incrementan l
 
   Nos permite construir objetos complejos paso a paso. El patrón nos permite producir distintos tipos y representaciones de un objeto empleando el mismo código     de construcción.
 
+#### Patrones estructurales
+Los patrones estructurales explican cómo ensamblar objetos y clases en estructuras más grandes, a la vez que se mantiene la flexibilidad y eficiencia de estas estructuras.
+
+* #### Adapter
+  
+  Permite la colaboración entre objetos con interfaces incompatibles.
+
+* #### Composite
+  
+Permite componer objetos en estructuras de árbol y trabajar con esas estructuras como si fueran objetos individuales.
+
+
   
